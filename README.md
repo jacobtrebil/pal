@@ -1,8 +1,7 @@
 # Pal - an AI that understands you
 
-
-
-
+> I originally created Pal because I wanted to be able to ask ChatGPT the important questions, that it needs context on my life to be able to effectively answer. I gave 
+Pal data about my personal situation, interests, personality traits, and it was able to help me sort through important issues in my life. Now I'm making the prompt template available so that you can create a Pal too! Just copy/paste this prompt template into your own GPT in OpenAI's GPT store, customize it, and build a Pal that understands you and can be an assistant to you for all things in life. 
 
 # Prompt Template
 
